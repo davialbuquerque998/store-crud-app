@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Environment variables
+.env
+.env.test
+.env.production
+
+# Private keys and credentials
+*.pem
+*.key
+*.crt
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Typescript cache and build outputs
+*.tsbuildinfo
+
+# Debugging and profiling
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS
+.DS_Store
+
+# Linux
+*.swp
